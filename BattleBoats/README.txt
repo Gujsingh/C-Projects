@@ -3,12 +3,6 @@ Gujsingh
 Spring 2020
 Lab 9: Battleboats
 -----------
-I WROTE:(SOLO OPTION)
--Agent.c
--Message.c
--MessageTest.c 
--Negotiation.c (I accidentally did this file)
------------
 DESCRIPTION
 In this lab we utilized multiple complex State machines and parsing through tokenization to create, at least in my solo option case, a part of the Battle Boats game. Additionally we created true random numbers and utilized different decoding, encoding, and cryptography to safely send data between two uno's   
 -----------
